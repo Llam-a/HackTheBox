@@ -182,7 +182,17 @@ Mình thử chạy trên local trước, và lụm key thôi
 ![image](https://github.com/Llam-a/HackTheBox/assets/115911041/bcdae809-32b0-4fb1-8298-a2d2282b4119)
 
 
+READMORE
 
+1. https://blog.csdn.net/f_cccc/article/details/116406838
+
+2. https://s-3ntinel.github.io/hackthebox/challenges/web/weather_app/weather_app.html
+
+3. https://infosec.itsmeuday.com/blog/htb_weather_app
+
+4. SQL query https://www.prisma.io/dataguide/postgresql/inserting-and-modifying-data/insert-on-conflict
+
+5. https://dopey.gitbook.io/sh0w-4nd-t3ll/hacker-boy/hackthebox/challenges/weather-app
 
 
 
