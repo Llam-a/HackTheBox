@@ -96,6 +96,8 @@ Vậy ta có thêm idea **Tham số endpoint trong /api/weather chứa dữ li�
 
 ![image](https://github.com/Llam-a/HackTheBox/assets/115911041/30b5e036-4e20-44be-b077-d7920376f81b)
 
+![image](https://github.com/Llam-a/HackTheBox/assets/115911041/1ef73ebb-b89f-47cb-a6dc-4e1d834daa40)
+
 Tiếp theo trong route `/login` , nếu ta login đúng với admin username và password ta sẽ lấy được flag.
 
 ![image](https://github.com/Llam-a/HackTheBox/assets/115911041/c85f2ec6-31c9-4b95-abfb-0247d2f87330)
